@@ -1,2 +1,2 @@
-# FreestarNews-iOS
-Freestar News sample app
+# FreestarNews-ios
+Freestar port of HN news app.
